@@ -16,5 +16,34 @@
       "toughasnails:wool_boots"
     ],
     "modifier": 2
+  },
+  {
+    "names": [
+      "aether_legacy:leather_gloves",
+      "aether_legacy:iron_gloves",
+      "aether_legacy:golden_gloves",
+      "aether_legacy:chain_gloves",
+      "aether_legacy:diamond_gloves",
+      "aether_legacy:zanite_gloves",
+      "aether_legacy:gravitite_gloves",
+      "aether_legacy:neptune_gloves",
+      "aether_legacy:phoenix_gloves",
+      "aether_legacy:obsidian_gloves",
+      "aether_legacy:valkyrie_gloves"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "aether_legacy:red_cape",
+      "aether_legacy:blue_cape",
+      "aether_legacy:yellow_cape",
+      "aether_legacy:white_cape",
+      "aether_legacy:swet_cape",
+      "aether_legacy:invisibility_cape",
+      "aether_legacy:agility_cape",
+      "aether_legacy:valkyrie_cape"
+    ],
+    "modifier": 1
   }
 ]
